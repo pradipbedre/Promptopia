@@ -1,7 +1,9 @@
-1. Created provider component 
-2. Then wrap layout with provider
-3. create route file inside app/auth/[...nextauth]/route.js and implement next-auth.
-4. Rgister on google cloud 
-5. create session and signIn function 
-6. create database.js file inside utils for db connection 
-7. create user model
+## Live: https://promptopia-henna-two.vercel.app/
+
+Promptopia is an open-source AI prompting tool designed to fuel creativity, discovery, and sharing in the modern world.
+
+1. "Promptopia: Your AI-Powered Muse - Unleashing creativity with AI-generated prompts."
+
+2. "Discover & Share with Promptopia - The open-source hub for endless imaginative sparks."
+
+3. "Unlock Boundless Creativity - Promptopia, where minds collaborate with AI to inspire brilliance."
