@@ -10,4 +10,5 @@ This serverless application.
 
 3. "Unlock Boundless Creativity - Promptopia, where minds collaborate with AI to inspire brilliance."
    
-![skmFyRpXLY](https://github.com/pradipbedre/Promptopia/assets/60803643/43006251-e2b8-42e3-9e8a-e52c8fc6291d)
+
+![skmFyRpXLY](https://github.com/pradipbedre/Promptopia/assets/60803643/ccdc98dd-70b7-4559-8f17-51cd7ee69f33)
