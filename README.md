@@ -5,4 +5,3 @@
 5. create session and signIn function 
 6. create database.js file inside utils for db connection 
 7. create user model
-8. 
